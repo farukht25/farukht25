@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farukh</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **Apartment-Price-Predictor**
+- 🔭 I’m currently working on [Apartment-Price-Predictor](https://farukht25-apartment-price-predictor-app-sf1jva.streamlit.app/)
 
 - 💬 Ask me about **React, Node and Java**
 
